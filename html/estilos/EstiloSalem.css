@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+header {
+    font-family: fantasy;
+    text-align: center;
+    background-color:#c42a2a;
+    border-radius: 20px;
+}
+article {
+    float:right;
+    background-color:#811081;
+    border-radius: 20px;
+}
+aside {
+    background-color:#811081;
+    border-radius: 20px;
+}
+aside { float:left; }
+
+footer {
+    padding-top:5px;
+    clear: both;
+    position: relative;
+    height: 25px;
+    margin-top: -200px;
+    background-color:#c42a2a;
+    border-radius:20px;
+    text-align: center;
+}
+iframe {
+    padding: 10px;
+    border-radius: 20px;
+}
+img{
+    padding: 10px;
+    border-radius: 20px;
+}

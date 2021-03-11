@@ -1,0 +1,36 @@
+p {
+    color: rgb(20, 20, 185);
+}
+
+p.verde {
+    color:rgb(223, 62, 196)
+}
+
+hr{
+    border: 10px solid rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+body{
+    background-color:deepskyblue;
+}
+header {  
+    text-align: center;
+    padding: 20px;
+    background-color: #83d3e7;
+    border-radius: 20px;
+   }
+article {
+    padding:10px;
+    border-radius: 20px;
+    background-color: rgb(247, 226, 41);
+}
+footer {
+    text-align: center;
+    background-color: rgb(255, 255, 255) ;
+    border-radius: 20px;
+}
+
+section{
+    margin-left: 20px;
+}
